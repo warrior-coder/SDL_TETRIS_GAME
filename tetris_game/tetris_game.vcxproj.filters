@@ -12,7 +12,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.c">
+    <ClCompile Include="Sources\Main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
